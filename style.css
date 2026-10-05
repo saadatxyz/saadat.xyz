@@ -7,7 +7,7 @@
 
 /* Navbar Styles */
 
-#navbar {
+nav {
 	position: absolute;
 	height: 3rem;
 	width: 100%;
@@ -19,11 +19,11 @@
 	justify-content: space-evenly;
 }
 
-.nav.item {
+.navitem {
 	margin: 1rem 1vw 1rem 1vw;
 }
 
-a.nav.item {
+a.navitem {
 	color: white;
 	text-decoration: none;
 	font-weight: bold;
