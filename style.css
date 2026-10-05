@@ -2,20 +2,16 @@
 
 :root {
 	background: #292929;
+	color: white;
 	font-family: sans-serif;
 }
 
 /* Navbar Styles */
 
 nav {
-	height: 3rem;
-	width: 100%;
-	top: 0;
-	left: 0;
-	background-color: #191919;
-	color: white;
 	display: flex;
 	justify-content: space-evenly;
+	background-color: #191919;
 }
 
 .navitem {
@@ -23,7 +19,6 @@ nav {
 }
 
 a.navitem {
-	color: white;
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -31,29 +26,18 @@ a.navitem {
 /* Body/Content Styles */
 
 main {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
 	max-width: 30rem;
-	top: 3rem;
-	left: 0;
-	color: white;
 }
 
-/* Footer Styles */
-
 footer {
-	top: 3rem;
-	left: 0;
-	color: white;
+	/* PLACEHOLDER */
 }
 
 /* Text Element Styles */
-
-h1 {
-	margin: 2rem 2rem 1rem 2rem;
-}
-
-p {
-	margin: 1rem 2rem 1rem 2rem;
-}
 
 a {
 	color: white;
