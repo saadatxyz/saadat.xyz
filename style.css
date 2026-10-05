@@ -1,72 +1,72 @@
 /* Base Styles */
 
 :root {
-	background: #292929;
-	color: white;
-	font-family: sans-serif;
-	line-height: 1.15;
-	-webkit-text-size-adjust: 100%;
+    background: #292929;
+    color: white;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
-	margin: 0;
+    margin: 0;
 }
 
 /* Navigation Bar Styles */
 
 nav {
-	display: flex;
-	justify-content: space-evenly;
-	padding-left: 30%;
-	padding-right: 30%;
-	background-color: #191919;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color: #191919;
 }
 
 .navitem {
-	margin: 1rem 0.9rem 1rem 0.9rem;
+    margin: 1rem 0.9rem 1rem 0.9rem;
 }
 
 a.navitem {
-	text-decoration: none;
-	font-weight: bold;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 /* Content Styles */
 
 main {
-	margin-top: 2rem;
-	margin-bottom: 2rem;
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: 2rem;
-	padding-right: 2rem;
-	max-width: 40rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    max-width: 40rem;
 }
 
 /* Footer Stylers */
 
 footer {
-	display: flex;
-	justify-content: center;
-	padding-left: 2rem;
-	padding-right: 2rem;
-	text-align: center;
-	filter: brightness(40%);
-	font-size: smaller;
+    display: flex;
+    justify-content: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-align: center;
+    filter: brightness(40%);
+    font-size: smaller;
 }
 
 /* Text Element Styles */
 
 a {
-	color: white;
+    color: white;
 }
 
 /* Text Class Styles */
 
 .bold {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 .larger {
-	font-size: larger;
+    font-size: larger;
 }
