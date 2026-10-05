@@ -13,3 +13,7 @@ I would like a templating engine that's similar to a C compiler: a program that
 runs without any other dependencies and compiles template files into plain HTML.
 
 That doesn't exist, so I decided to stick with just plain HTML files.
+
+## Why does it have a FOSS license?
+
+If anyone wants to copy an element from my website, they can easily and freely do so.
