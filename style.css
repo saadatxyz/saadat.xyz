@@ -6,7 +6,7 @@
 	font-family: sans-serif;
 }
 
-/* Navbar Styles */
+/* Navigation Bar Styles */
 
 nav {
 	display: flex;
@@ -23,7 +23,7 @@ a.navitem {
 	font-weight: bold;
 }
 
-/* Body/Content Styles */
+/* Content Styles */
 
 main {
 	margin-top: 2rem;
@@ -32,6 +32,8 @@ main {
 	padding-right: 2rem;
 	max-width: 30rem;
 }
+
+/* Footer Stylers */
 
 footer {
 	display: flex;
