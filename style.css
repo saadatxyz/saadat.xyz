@@ -49,6 +49,10 @@ p {
 	margin: 1rem 2rem 1rem 2rem;
 }
 
+a {
+	color: white;
+}
+
 /* Text Class Styles */
 
 .bold {
