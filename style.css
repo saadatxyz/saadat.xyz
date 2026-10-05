@@ -32,6 +32,8 @@ a.navitem {
 main {
 	margin-top: 2rem;
 	margin-bottom: 2rem;
+	margin-left: auto;
+	margin-right: auto;
 	padding-left: 2rem;
 	padding-right: 2rem;
 	max-width: 30rem;
