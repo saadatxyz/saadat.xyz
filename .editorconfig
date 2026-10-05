@@ -1,0 +1,15 @@
+# saadatxyz's EditorConfig File for Personal Projects
+
+root = true
+
+# Defaults that I use (for all files).
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 4
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Exception that I will add I see fit
+# None so far
