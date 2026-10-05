@@ -8,7 +8,6 @@
 /* Navbar Styles */
 
 nav {
-	position: absolute;
 	height: 3rem;
 	width: 100%;
 	top: 0;
@@ -32,7 +31,6 @@ a.navitem {
 /* Body/Content Styles */
 
 main {
-	position: absolute;
 	max-width: 30rem;
 	top: 3rem;
 	left: 0;
@@ -42,7 +40,6 @@ main {
 /* Footer Styles */
 
 footer {
-	position: absolute;
 	top: 3rem;
 	left: 0;
 	color: white;
