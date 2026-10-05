@@ -34,7 +34,9 @@ main {
 }
 
 footer {
-	/* PLACEHOLDER */
+	display: flex;
+	justify-content: center;
+	text-align: center;
 }
 
 /* Text Element Styles */
