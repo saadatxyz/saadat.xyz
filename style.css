@@ -1,7 +1,11 @@
+/* Base Styles */
+
 :root {
 	background: #292929;
 	font-family: sans-serif;
 }
+
+/* Navbar Styles */
 
 #navbar {
 	position: absolute;
@@ -19,6 +23,8 @@
 	margin: 1rem 1vw 1rem 1vw;
 }
 
+/* Body/Content Styles */
+
 .content {
 	position: absolute;
 	max-width: 30rem;
@@ -26,6 +32,8 @@
 	left: 0;
 	color: white;
 }
+
+/* Body/Content Styles: Text Styles */
 
 h1 {
 	margin: 2rem 2rem 1rem 2rem;
