@@ -14,17 +14,10 @@ body {
 
 nav {
 	display: flex;
-	justify-content: center;
-	background-color: #191919;
-}
-
-/* Hacky solution to resizing link container, but not resizing darkened bar */
-#navcontent {
-	display: flex;
 	justify-content: space-evenly;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 45rem;
+	padding-left: 30%;
+	padding-right: 30%;
+	background-color: #191919;
 }
 
 .navitem {
