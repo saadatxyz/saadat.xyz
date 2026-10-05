@@ -2,7 +2,7 @@
 
 My simple and static website for personal professionality.
 
-### Why is it just plain HTML and CSS?
+## Why is it just plain HTML and CSS?
 
 I wanted to work with simple text files.
 
