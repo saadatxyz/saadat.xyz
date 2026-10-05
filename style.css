@@ -23,6 +23,10 @@
 	color: white;
 }
 
+p {
+	margin: 1rem;
+}
+
 a:link, a:visited, a:hover, a:active {
 	color: white;
 	text-decoration: none;
