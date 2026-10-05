@@ -4,6 +4,11 @@
 }
 
 .content {
-	background-color: gray;
+	background-color: #ffffff;
 	color: white;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: white;
+	text-decoration: none;
 }
