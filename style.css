@@ -23,6 +23,12 @@
 	margin: 1rem 1vw 1rem 1vw;
 }
 
+a.nav.item {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
 /* Body/Content Styles */
 
 .content {
@@ -41,12 +47,6 @@ h1 {
 
 p {
 	margin: 1rem 2rem 1rem 2rem;
-}
-
-a.nav.item {
-	color: white;
-	text-decoration: none;
-	font-weight: bold;
 }
 
 /* Text Class Styles */
